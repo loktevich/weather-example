@@ -9,7 +9,7 @@ $(function () {
 
     function createTodayCard(response) {
 
-        console.log();
+        console.log("Hello");
         
 
         const weatherFullData = {
